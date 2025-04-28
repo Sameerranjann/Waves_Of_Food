@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Waves Of Food</string>
+    <string name="next">Next</string>
+    <string name="at_home">at home😊</string>
+    <string name="enjoy_resturant_quality_meals">Enjoy resturant quality meals</string>
+    <string name="todo">TODO</string>
+    <string name="design_by_sameer">Design By Sameer</string>
+    <string name="enjoy_restaurant_quality_meals_at_home">Enjoy Restaurant Quality Meals at Home</string>
+    <string name="design_by_sameerr">Design By Sameer</string>
+    <string name="waves_of_food">Waves Of Food</string>
+    <string name="deliver_favorite_food">Deliver Favorite Food😊</string>
+    <string name="todo1">TODO</string>
+    <string name="facebook">facebook</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explore_your_favorite_food">Explore Your Favorite Food</string>
+    <string name="food_name">Food Name</string>
+    <string name="popular">Popular</string>
+    <string name="food_items_list">Food items list</string>
+    <string name="view_menu">View Menu</string>
+    <string name="_7">$7</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="recentbuy">RecentBuy</string>
+</resources>
