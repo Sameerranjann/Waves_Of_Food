@@ -43,7 +43,7 @@ Users can:
 - Order tracking with maps
 - Implement payment gateway
 
--->Thanku Ypu-->
+-->Thanku You-->
 
 
  
