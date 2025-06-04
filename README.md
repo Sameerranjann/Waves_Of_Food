@@ -51,6 +51,9 @@ Users can:
 ###  SignUp Screen :
 ![SignUp Screen]([screenshots/location.png](https://github.com/Sameerranjann/Waves_Of_Food/blob/c8dfb52555e9c2616a113d5acdeb4d64b220743f/Screenshot_20250604_163111.png))
 
+![image](https://github.com/user-attachments/assets/6599a474-fa29-434c-92a7-48a809cf066d)
+
+
 ###  Home Screen :
 ![Home Screen]([screenshots/cart.png](https://github.com/Sameerranjann/Waves_Of_Food/blob/c8dfb52555e9c2616a113d5acdeb4d64b220743f/Screenshot_20250604_163145.png))
 
