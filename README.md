@@ -28,9 +28,15 @@ Users can:
 - Login securely
 - Session is persisted across app restarts
 
+
+
+
 💳 Razorpay Integration :
 - Integrated Razorpay Android SDK to enable seamless and secure payments within the app
 - Payments can be made via UPI, debit/credit cards, and net banking
+
+
+
 
 ## 🌐 APIs Used :
 
